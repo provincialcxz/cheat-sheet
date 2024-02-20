@@ -1,7 +1,6 @@
 Шпаргалка по Markdown
 ---------------------
-([https://github.com/sandino/Markdown-Cheatsheet](https://github.com/sandino/Markdown-Cheatsheet))
-(перевод, [оригинал](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+
 
 Поиграть с разметкой Markdown можно на [демо-странице](http://www.markdown-here.com/livedemo.html).
 
@@ -184,7 +183,7 @@ Alt-H2
 
 <a name="code"><h2>Код и подсветка синтаксиса</h2></a>
 
-Блоки кода являются частью функций Markdown, но не подсветка синтаксиса. Однако многие обработчики, например Github или *Markdown Here*, поддерживают подсветку синтаксиса. Список поддерживаемых языков и способ их указания может различаться. *Markdown Here* поддерживает десятки языков (и не-языков, например синтаксис diff и заголовки HTTP); полный список и способ указания языков см. на странице [highlight.js demo-странице](http://softwaremaniacs.org/media/soft/highlight/test.html).
+Блоки кода являются частью функций Markdown, но не подсветка синтаксиса. Однако многие обработчики, например Github или *Markdown Here*, поддерживают подсветку синтаксиса. Список поддерживаемых языков и способ их указания может различаться. *Markdown Here* поддерживает десятки языков (и не-языков, например синтаксис diff и заголовки HTTP);
 
 ```no-highlight
 `Код` в строке обрамляется `обратными апострофами`.
